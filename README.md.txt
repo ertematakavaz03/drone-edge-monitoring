@@ -1,23 +1,23 @@
-#Drone-Enabled Mobile Edge Computing for Environmental Monitoring
+## **Drone-Enabled Mobile Edge Computing for Environmental Monitoring**
 
 This repository contains our CS408 term project: a Python-based simulation of an environmental monitoring system using sensor nodes, a drone gateway for edge processing, and a central server for visualization.
 
-## Features
+## **Features**
 - Real-time TCP communication (Sensor → Drone → Central Server)  
 - Edge processing with rolling averages & anomaly detection  
 - Drone battery simulation (return-to-base & data queuing)  
 - GUI dashboards built with Tkinter (live data, logs, charts)  
 - Multithreaded architecture with robust logging & error handling  
 
-## Prerequisites
-- Python 3.7 as minimum
-- Tkinter 
+## **Prerequisites**
+- Python 3.7 as minimum  
+- Tkinter (usually comes bundled with Python)
 
-## Installation
+## **Installation**
 ```bash
 # (Optional) create a virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# Install (no external dependencies)
+## Install (no external dependencies)
 pip install -r requirements.txt
