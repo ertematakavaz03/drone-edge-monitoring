@@ -1,9 +1,3 @@
-## **CS408 Term Project by:**  
-- Ertem Ata Kavaz – 32790  
-- Ege Çetinkaya – 32661  
-- Karya Üstünçelik – 30903
-
-  
 ## **Drone-Enabled Mobile Edge Computing for Environmental Monitoring**
 
 This repository contains our CS408 term project: a Python-based simulation of an environmental monitoring system using sensor nodes, a drone gateway for edge processing, and a central server for visualization.
@@ -29,3 +23,9 @@ source venv/bin/activate
 
 ## Install (no external dependencies)
 pip install -r requirements.txt
+```
+
+## **CS408 Term Project by:**  
+- Ertem Ata Kavaz – 32790  
+- Ege Çetinkaya – 32661  
+- Karya Üstünçelik – 30903
