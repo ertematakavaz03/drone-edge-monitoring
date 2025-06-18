@@ -1,4 +1,4 @@
-# Drone-Enabled Mobile Edge Computing for Environmental Monitoring
+#Drone-Enabled Mobile Edge Computing for Environmental Monitoring
 
 This repository contains our CS408 term project: a Python-based simulation of an environmental monitoring system using sensor nodes, a drone gateway for edge processing, and a central server for visualization.
 
